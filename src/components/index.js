@@ -11,6 +11,7 @@ import Tech from "./Tech";
 import Experience from "./Experience";
 import Works from "./Works";
 import Contact from "./Contact";
+import SocMedLinks from "./SocMedLinks";
 
 export {
   Hero,
@@ -19,6 +20,7 @@ export {
   Tech,
   Experience,
   Works,
+  SocMedLinks,
   Contact,
   EarthCanvas,
   BallCanvas,
